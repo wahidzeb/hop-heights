@@ -1,0 +1,42 @@
+{
+  "id": "/hop-heights/",
+  "name": "Hop Heights",
+  "short_name": "Hop Heights",
+  "description": "Hop Heights by Zaib: a bright 3D obby parkour adventure with 60 stages across 6 themed worlds. Jump over lava, ride conveyors, bounce on jump pads, slide on ice and climb to Star Summit. Collect stars for skins and trails. Free in your browser.",
+  "lang": "en",
+  "start_url": "/hop-heights/?source=pwa",
+  "scope": "/hop-heights/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#4aa8ff",
+  "background_color": "#4aa8ff",
+  "categories": [
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "/hop-heights/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/hop-heights/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/hop-heights/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/hop-heights/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
